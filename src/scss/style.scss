@@ -1,0 +1,10 @@
+@import "example";
+
+body {
+    background-color: $color-bg;
+    color: $color-text;
+}
+
+a {
+    display: flex;
+}
